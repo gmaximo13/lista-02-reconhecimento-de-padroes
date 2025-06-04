@@ -1,0 +1,1 @@
+# lista-02-reconhecimento-de-padroes
